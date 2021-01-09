@@ -1,7 +1,6 @@
 # Rutas Trail Running Albacete
 Biblioteca de rutas GPS para la práctica del Treking o Trail Running en la provincia de Albacete.
 
----
 ## Índice
 
 Provincia
