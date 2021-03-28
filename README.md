@@ -8,4 +8,6 @@ Provincia
 
 Localidad
 - [Ayna](https://github.com/franm3e/Rutas-Trail-Running/tree/main/Albacete/Ayna)
+- [Jorquera](https://github.com/franm3e/Rutas-Trail-Running/tree/main/Albacete/Jorquera)
 - [Paterna del Madera](https://github.com/franm3e/Rutas-Trail-Running/tree/main/Albacete/Paterna%20del%20Madera)
+
