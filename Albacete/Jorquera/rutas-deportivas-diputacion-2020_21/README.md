@@ -4,7 +4,7 @@
 - 29/03/21
 - 15.497 m
 
-# Descripción
+# Descripción
 
 Comenzamos en en el parque de San Roque (Picina Municipal) dirección a la calle Romeria Virgen de Cubas para subir por la senda del cerro el moro hasta llegar al punto más alto del cerro y transitar por una senda rodeada por un pinar joven hasta llegar al huerto de Blas, por donde descenderemos para iniciar una nueva senda que transcurre por media falda de la montaña y veremos por el lado derecho el cauce y hoces del Jucar hasta volver al punto de partida.
 
